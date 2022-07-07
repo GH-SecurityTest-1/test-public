@@ -12,4 +12,5 @@ Change #9: gmail not associated with any github activity
 Change #10: new email  
 Change #11: made on a fork by user2 w/ private email address 1  
 Change #12: made on a fork by user2 w/ private email address 2  
+Change #13: made on a branch created using command line prompt  
 
